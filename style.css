@@ -1,0 +1,132 @@
+body {
+	background-color: #999999;
+}
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.style1 {
+	color: #FF0000;
+	font-weight: bold;
+}.border {
+	border: 1px solid #E7ED9A;
+}
+.subhead {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 30px;
+	color: #FFFFFF;
+	height: 30px;
+	background-color: #B9C523;
+}
+.subhead a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+.subhead a:hover {
+	text-decoration:none;
+	font-weight:bold;
+	color: #003300;
+}
+
+.border2 {
+	border: 3px solid #FF9900;
+	background-color:#FFDDBB;
+	
+}
+.border3 {
+	border: 3px solid #009900;
+	background-color:#BFFFBF;
+}
+
+.msg {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FF0000;
+}
+
+.heading {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	line-height: 100px;
+	color: #000000;
+	height: 100px;
+	font-weight: bold;
+	background-position: right;
+	background-color: #EAF4AE;
+	background-repeat: no-repeat;
+}
+a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0066FF;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+	color: #0099FF;
+}
+.msg2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #006600;
+}
+
+.box
+{
+	width:95%;
+	border: 5px solid #006699;
+}
+.box_right
+{
+	overflow:auto;	
+	width:250px;
+	height:500px;
+	border: 3px solid #006699;
+}
+.txt1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #006600;
+}
+.style2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	line-height: 25px;
+	text-align: justify;
+	color: #666666;
+}
+.menu {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 30px;
+	font-weight: bold;
+	color: #000000;
+	background-color: #E7ED9A;
+	height: 30px;
+}
+.foot {
+	background-color: #FFFFE1;
+	height: 25px;
+}
+.menu2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 25px;
+	font-weight: bold;
+	color: #000000;
+	background-color: #FFE8FF;
+	height: 25px;
+}
+.menu3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #666666;
+}
